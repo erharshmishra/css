@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: overline;
+}
+
+p {
+    text-align: justify;
+    text-decoration: red line-through;
+}
