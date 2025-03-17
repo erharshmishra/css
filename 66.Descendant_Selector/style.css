@@ -1,0 +1,9 @@
+p a {
+    color: yellow;
+    background-color: black;
+}
+
+nav ul li a {
+    color: white;
+    background-color: black;
+}
