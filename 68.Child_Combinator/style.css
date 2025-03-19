@@ -1,0 +1,13 @@
+div>input {
+    background-color: black;
+    color: orange;
+}
+
+main>p {
+    color: yellow;
+    background-color: black;
+}
+
+span>button {
+    color: chartreuse;
+}
