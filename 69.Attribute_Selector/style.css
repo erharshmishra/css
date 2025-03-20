@@ -1,0 +1,17 @@
+input[type] {
+    background-color: black;
+
+}
+
+input[type="text"] {
+    color: red;
+}
+
+input[type="password"] {
+    color: green;
+}
+
+
+::placeholder {
+    color: wheat;
+}
