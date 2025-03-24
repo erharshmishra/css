@@ -1,0 +1,39 @@
+/* Example of Cascading */
+h3 {
+    color: red;
+}
+
+h3 {
+    color: wheat;
+    background-color: black;
+}
+
+/* End of Example of Cascading */
+
+/* Example of Specificity */
+
+#login {
+    color: wheat;
+    background-color: black;
+}
+
+#signup {
+    color: white;
+    background-color: brown;
+}
+
+button {
+    color: yellow;
+    background-color: red;
+}
+
+button:hover {
+    color: red;
+    background-color: white;
+}
+
+h1::first-letter {
+    color: orange;
+}
+
+/* End of Example of Specificity */
