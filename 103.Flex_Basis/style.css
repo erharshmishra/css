@@ -1,0 +1,28 @@
+#container {
+    height: 500px;
+    width: 80%;
+    background-color: azure;
+    border: 2px solid black;
+    margin: 20px auto;
+    display: flex;
+}
+
+#ind {
+    flex-basis: 150px;
+}
+
+#org {
+    flex-basis: 170px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#container div {
+    height: 100px;
+    width: 100px;
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
