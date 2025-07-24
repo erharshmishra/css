@@ -50,7 +50,6 @@ This repository is a mix of exercises, assignments, and mini-projects that helpe
 | **92.Card_Hover_Effect**      | Card Hover Effect           | A project showing how to create interactive hover effects on a card element, a common pattern in modern web design.                                      |
 | **93.Position**               | Position                    | Explains how to use the `position` property to control element positioning (`static`, `relative`, `absolute`, `fixed`, `sticky`).                     |
 | **94.Simple_Smiley_Face**     | Simple Smiley Face          | A fun project where I created a smiley face using CSS properties like `border-radius`, `background-color`, and `box-shadow`.                        
-|
 
 ## How to Use
 
