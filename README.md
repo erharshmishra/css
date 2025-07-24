@@ -1,6 +1,6 @@
 # css
 
-# CSS Learning Repository
+## CSS Learning Repository
 
 Welcome to my CSS Learning Repository! In this repository, I’ve compiled all the CSS topics and concepts I have learned over time. Each file and folder represents a specific concept, practice, or project that I worked on to strengthen my understanding of CSS.
 
@@ -49,7 +49,8 @@ This repository is a mix of exercises, assignments, and mini-projects that helpe
 | **91.Background_Image**       | Background Image            | Shows how to add images as backgrounds to elements, as well as control their size, positioning, and repetition.                                          |
 | **92.Card_Hover_Effect**      | Card Hover Effect           | A project showing how to create interactive hover effects on a card element, a common pattern in modern web design.                                      |
 | **93.Position**               | Position                    | Explains how to use the `position` property to control element positioning (`static`, `relative`, `absolute`, `fixed`, `sticky`).                     |
-| **94.Simple_Smiley_Face**     | Simple Smiley Face          | A fun project where I created a smiley face using CSS properties like `border-radius`, `background-color`, and `box-shadow`.                           |
+| **94.Simple_Smiley_Face**     | Simple Smiley Face          | A fun project where I created a smiley face using CSS properties like `border-radius`, `background-color`, and `box-shadow`.                        
+|
 
 ## How to Use
 
@@ -60,6 +61,19 @@ This repository is a mix of exercises, assignments, and mini-projects that helpe
 2. Explore the individual files and folders for different CSS topics.
 3. Open any HTML file in your browser to see the CSS styles applied in action.
 
----
+## Learning Purpose
 
-Feel free to fork, modify, or contribute to this repository if you want to enhance it further!
+The main goal of this repository is to demonstrate my learning journey with CSS and the various techniques and features that I have explored. The exercises here focus on:
+
+- Understanding the fundamental CSS properties such as `color`, `font-size`, `background`, `margin`, `padding`, and others.
+- Learning how to style websites using both simple and advanced CSS techniques.
+- Mastering the layout techniques like Flexbox and Grid to create responsive, modern web designs.
+- Experimenting with animations, transitions, and transforms to make webpages interactive and dynamic.
+- Using CSS selectors and pseudo-classes to target elements efficiently and make styling more specific and controlled.
+- Building mini-projects to apply my CSS knowledge in practical ways.
+
+## Author
+- **Name**: Harsh Mishra 
+- **Email**: harshmishra8103@gmail.com
+
+> By sharing these files, I hope to showcase my progress and potentially help others who are starting out with CSS. Feel free to clone, fork, or modify any of the examples to learn and experiment on your own!
